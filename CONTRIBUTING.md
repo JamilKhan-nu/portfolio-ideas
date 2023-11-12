@@ -13,7 +13,10 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 ## Step 2. Create a new table
 The portfolio examples are enclosed between two comments:
 
-- `<! -- ⭐ PORTFOLIO START ⭐ -- >` 
+- `<! -- ⭐ PORTFOLIO START ⭐ -- >`
+- |Author      | Screenshot | Live URL  |  Repo| Tech Stack|
+- 
+- | Jamil Khan |![jamilkhanportfolio](https://github.com/Evavic44/portfolio-ideas/assets/75863687/d1f3e1e3-63df-4543-9445-d8553b90517f)| https://jamilkhan.me | https://github.com/JamilKhan-nu | NextJS, Tailwindcss, HyGraph, Vercel |
 - `<! -- ⭐ PORTFOLIO END ⭐ -- >`
 
 ![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
